@@ -1,0 +1,5 @@
+#!/bash/sh
+
+echo "Rebasing is not allowed here"
+
+exit 1
